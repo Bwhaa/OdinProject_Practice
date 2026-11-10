@@ -1,0 +1,11 @@
+div.upper {
+    width: 300px;
+    height: auto;
+    align-items: center;
+}
+
+
+div.lower {
+    width: 200px;
+    height: 400px;
+}
